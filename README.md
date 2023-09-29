@@ -10,4 +10,4 @@ Open the github link to run the simulation ball movement.
 **Future Improvements:**
 This Project can be further enhanced by creating an animation like a boy bouncing the ball.
 
- https://yogesh-mca2023.github.io/ball_random/
+ https://yogesh-mca2023.github.io/ball_movements/
