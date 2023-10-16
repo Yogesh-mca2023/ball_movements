@@ -6,6 +6,7 @@ This HTML page displays a continuous bouncing violet ball animation within a rec
 **How to run the code:**
 
 ***Step 1:*** Save the HTML file with a .html extension.
+
 ***Step 2:*** Install the Live Server extension in Visual Studio Code, then click the "Go Live" button at the bottom right corner of the VSCode window to open a new browser window displaying the ball-moving animation.
 
 **Future improvement:**
