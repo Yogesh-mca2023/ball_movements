@@ -1,13 +1,12 @@
 # ball_movements
 
-**Description:** The "Diagonal Ball Movement Inside Container" is a JavaScript-powered web application that showcases
-the dynamic motion of a ball as it moves diagonally within a designated container on a webpage. 
-This interactive simulation offers users an engaging visual experience while highlighting the principles of motion and animation.
+**Description:**
+This HTML page displays a continuous bouncing violet ball animation within a rectangular area, controlled by JavaScript using the setInterval function with a 500-millisecond interval.
 
-**Steps to Run the Project:**
-Open the github link to run the simulation ball movement.
+**How to run the code:**
 
-**Future Improvements:**
-This Project can be further enhanced by creating an animation like a boy bouncing the ball.
+***Step 1:*** Save the HTML file with a .html extension.
+***Step 2:*** Install the Live Server extension in Visual Studio Code, then click the "Go Live" button at the bottom right corner of the VSCode window to open a new browser window displaying the ball-moving animation.
 
- https://yogesh-mca2023.github.io/ball_movements/
+**Future improvement:**
+consider adding user interaction features like mouse or keyboard control to change the ball's direction or speed, or adding obstacles or targets for the ball to interact with, creating a more engaging and interactive animation.
